@@ -1,0 +1,22 @@
+{
+    "controller": "app",
+    "function": "dashboard",
+    "arguments": [],
+    "error": "\/",
+    "receiver": "url",
+    "method": "get",
+    "database": {
+        "pdo": {
+            "host": "",
+            "username": "",
+            "password": "",
+            "table": "",
+            "charset": "utf8"
+        }
+    },
+    "router_url_mode": null,
+    "maintenance_mode": null,
+    "maintenance_mode_ip": null,
+    "forbidden": null,
+    "forbidden_mode_url": null
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "ddeboer/imap",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ddeboer/imap.git",
+            "reference": "888139dd42b0b0ed06493168365ea3b1f762abdc"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ddeboer/imap/zipball/888139dd42b0b0ed06493168365ea3b1f762abdc",
+            "reference": "888139dd42b0b0ed06493168365ea3b1f762abdc",
+            "shasum": ""
+        },
+        "require": {
+            "ext-iconv": "*",
+            "ext-imap": "*",
+            "ext-mbstring": "*",
+            "php": "^7.0"
+        },
+        "require-dev": {
+            "friendsofphp/php-cs-fixer": "^2.10",
+            "phpstan/phpstan": "^0.9.1",
+            "phpstan/phpstan-phpunit": "^0.9.3",
+            "phpunit/phpunit": "^6.5 || ^7.0",
+            "zendframework/zend-mail": "^2.8"
+        },
+        "time": "2018-03-26T13:16:02+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Ddeboer\\Imap\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "David de Boer",
+                "email": "david@ddeboer.nl"
+            },
+            {
+                "name": "Community contributors",
+                "homepage": "https://github.com/ddeboer/imap/graphs/contributors"
+            },
+            {
+                "name": "Filippo Tessarotto",
+                "email": "zoeslam@gmail.com"
+            }
+        ],
+        "description": "Object-oriented IMAP for PHP",
+        "keywords": [
+            "email",
+            "imap",
+            "mail"
+        ]
+    },
+    {
+        "name": "php-curl-class/php-curl-class",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-curl-class/php-curl-class.git",
+            "reference": "cd22b0ceebd5088ba4975d19e0e6c34c73c889e0"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-curl-class/php-curl-class/zipball/cd22b0ceebd5088ba4975d19e0e6c34c73c889e0",
+            "reference": "cd22b0ceebd5088ba4975d19e0e6c34c73c889e0",
+            "shasum": ""
+        },
+        "require": {
+            "ext-curl": "*",
+            "php": ">=5.3"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "*",
+            "squizlabs/php_codesniffer": "*"
+        },
+        "time": "2018-04-27T02:18:18+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Curl\\": "src/Curl/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Unlicense"
+        ],
+        "authors": [
+            {
+                "name": "Zach Borboa"
+            }
+        ],
+        "description": "PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs.",
+        "homepage": "https://github.com/php-curl-class/php-curl-class",
+        "keywords": [
+            "api",
+            "class",
+            "client",
+            "curl",
+            "framework",
+            "http",
+            "http client",
+            "json",
+            "php",
+            "requests",
+            "rest",
+            "restful",
+            "web service",
+            "xml"
+        ]
+    }
+]

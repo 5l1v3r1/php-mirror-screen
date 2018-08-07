@@ -1,0 +1,14 @@
+#!/usr/bin/env php
+<?php
+
+
+    /*
+     *
+     *  MIT License
+     *
+     *  Fix Framework Console
+     *
+    */
+
+
+    require_once("fix.php");
