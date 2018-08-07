@@ -14,7 +14,7 @@ Bot name: ece
 6. Mail speaking and writing
 7. Basci chat
 
-![alt text](https://i.hizliresim.com/PD7Lod.png "Logo Title Text 1")
+![alt text](https://image.ibb.co/iOoiae/Screenshot_1.png "Logo Title Text 1")
 
 ![alt text](https://i.hizliresim.com/g6P3A0.png "Logo Title Text 2")
 
