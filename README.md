@@ -5,7 +5,7 @@
 
 Komut adı: ece
 
-## ÖZellikler
+## Özellikler
 1. Sesli komut destegi
 2. Sesli geri bildirim
 3. Saat sorgulama
