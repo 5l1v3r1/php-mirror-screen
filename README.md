@@ -16,6 +16,6 @@ Bot name: ece
 
 ![alt text](https://image.ibb.co/iOoiae/Screenshot_1.png "Logo Title Text 1")
 
-![alt text](https://i.hizliresim.com/g6P3A0.png "Logo Title Text 2")
+![alt text](https://image.ibb.co/mqAJ8z/Screenshot_2.png "Logo Title Text 2")
 
-![alt text](https://i.hizliresim.com/9NYJ5Z.png "Logo Title Text 3")
+![alt text](https://image.ibb.co/d9k71K/Screenshot_3.png "Logo Title Text 3")
