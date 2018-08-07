@@ -16,7 +16,3 @@ Bot name: ece
 
 ![alt text][logo]
 [logo]: https://i.hizliresim.com/PD7Lod.png "Logo Title Text 2"
-![alt text][logo]
-[logo]: https://i.hizliresim.com/g6P3A0.png "Logo Title Text 2"
-![alt text][logo]
-[logo]: https://i.hizliresim.com/9NYJ5Z.png "Logo Title Text 2"
